@@ -6,7 +6,7 @@ Este projeto consiste em aprender os conceitos basicos do framework `React`
 * [npm] (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) para mais informações
 
 ### `criando nosso projeto`
-npx create-react-app aprendendo-react
-npm start
-No navegador acesse: [http://localhost:3000](http://localhost:3000)
+* [npx create-react-app aprendendo-react]
+* [npm start]
+* No navegador acesse: [http://localhost:3000](http://localhost:3000)
 
