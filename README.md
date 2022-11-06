@@ -10,3 +10,12 @@ Este projeto consiste em aprender os conceitos basicos do framework `React`
 * [npm start]
 * No navegador acesse: [http://localhost:3000](http://localhost:3000)
 
+### `instalando pacotes`
+* [npm install react-router-dom@6]  `router é usado para trabalharmos com paginação, sera utilizado na versão 6`
+
+
+
+
+
+
+
